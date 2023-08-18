@@ -1,5 +1,9 @@
-### Hi there 👋
+
+<div id="header" align="center">
+<img src = "https://media1.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif?cid=ecf05e476v797g8dqsbz7hb4hrdz0ndkkdx2yd7do2yumw2b&ep=v1_gifs_related&rid=giphy.gif&ct=s" width = "200"/>
+</div>
 <h1 align="center">Hi 👋, I'm Dieter</h1>
+
 <h3 align="center">A Passionate Software Engineering Student and Crafting with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dietban19&label=Profile%20views&color=0e75b6&style=flat" alt="dietban19" /> </p>
