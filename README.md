@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dietban19&label=Profile%20views&color=0e75b6&style=flat" alt="dietban19" /> </p>
 
-- 🔭 I’m currently working on [AssignmentTracker]([https://github.com/dietban19/CompClub.git](https://github.com/dietban19/AssignmentTracker))
+- 🔭 I’m currently working on [AssignmentTracker]([https://github.com/dietban19/AssignmentTracker])
 
 - 🌱 I’m currently learning **React, Backend, NodeJs, NextJs, Firebase**
 
